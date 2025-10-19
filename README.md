@@ -1,3 +1,7 @@
+<img width="1278" height="306" alt="изображение" src="https://github.com/user-attachments/assets/2b7a930e-faf4-459c-a890-b785aa084547" />
+
+
+
 results for /02: 
 
 ```
